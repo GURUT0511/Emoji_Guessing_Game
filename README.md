@@ -120,7 +120,3 @@ If you want, I can also:
 - Implement a simple static web UI for this game and open a PR.
 
 Tell me which of these you'd like me to do next and I'll proceed.
-
-License
-
-This project is provided under the MIT License. Replace with your preferred license if needed.
